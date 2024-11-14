@@ -1,0 +1,7 @@
+
+password=2017
+new=input("your password: ")
+if password==int(new):
+    print("Access granted")
+else:
+    print("Access denied")
